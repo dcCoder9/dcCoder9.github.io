@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -24,18 +24,22 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
     # - repo-name
+      - designPatterns
+      - Memory-Allocator
+      - dcCoder9.github.io
+      - Polygon-ScanLine-Conversion-Clipping
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: wesley.moncrief
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: wesley-moncrief-80b24a97/
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,12 +51,13 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
+  - name: The unit testing pyramid vs the testing trophy
+    web_url: https://github.com/topics/csshttps://kentcdodds.com/blog/write-tests
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Design patterns
+    web_url: https://www.pluralsight.com/courses/design-patterns-structural-playbook
+    image_url: https://i.udemycdn.com/course/750x422/1388684_4c5f_2.jpg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Board games!
+    image_url: https://store.greaterthangames.com/images/product/Spirit%20Island%20components.png

@@ -1,5 +1,5 @@
 ---
-title: "My thoughts on the software blog posts that influenced me the most"
+title: "Reflections on the software blog posts that influenced me the most"
 published: true
 ---
 

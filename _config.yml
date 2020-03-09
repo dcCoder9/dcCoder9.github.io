@@ -52,7 +52,7 @@ social_media:
 
 topics:
   - name: The unit testing pyramid vs the testing trophy
-    web_url: https://github.com/topics/csshttps://kentcdodds.com/blog/write-tests
+    web_url: https://kentcdodds.com/blog/write-tests
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Design patterns

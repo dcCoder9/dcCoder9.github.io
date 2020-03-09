@@ -3,7 +3,7 @@ title: "Reflections on the software blog posts that influenced me the most"
 published: true
 ---
 
-Over the years there have been a handful of ideas I've found in blogs posts that have become foundational to how I see certain parts of software development. These are the kind of posts that I frequently link to in my comments on code reviews. Here I'll share these articles in one place, and explain why they're so important to me.
+Over the years there have been a handful of ideas I've found in blog posts that have become foundational to how I see certain parts of software development. These are the kind of posts that I frequently link to in my comments on code reviews. Here I'll share these articles in one place, and explain why they're so important to me.
 
 ## [The rule of three](https://blog.codinghorror.com/rule-of-three/)
 "API development" is currently very trendy in software development. I've been on teams that were tasked with building APIs for internal usage, and it's incredibly easy to get caught in a trap of over-engineering code in order to meet every possible future use-case. It's hard to blame a developer for getting caught in this place - after all, the business people (and other development teams) are asking for "APIs", which are supposed to serve a broad purpose.
